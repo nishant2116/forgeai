@@ -1,0 +1,397 @@
+SAMPLE MANUFACTURING DOCUMENTATION
+====================================
+Work Breakdown Structures (WBS) and Standard Operating Procedures (SOPs)
+
+Use these samples to test your AI agent's ability to extract structured information.
+
+================================================================================
+WORK BREAKDOWN STRUCTURES (WBS)
+================================================================================
+
+---
+WBS DOCUMENT 1: Blast Furnace #2 Annual Reline Project
+---
+
+Subject: BF#2 Annual Shutdown and Reline - Work Package Breakdown
+Date: February 2026
+Project Manager: Mr. Rajesh Kumar
+
+The annual shutdown for Blast Furnace #2 will commence on 15th March 2026 at 0600hrs. Total shutdown duration estimated at 18-21 days.
+
+Pre-shutdown activities must be completed by 14th March. Mr. Sharma's civil team will handle final production reconciliation and raw material clearance (2 days prior to shutdown). Safety team inspection and permit preparation to be done by Ms. Patel (1 day, can run parallel to civil activities).
+
+Shutdown Day 1-4: Refractory demolition and removal. Civil team under Mr. Sharma responsible. Estimated 3-4 days depending on lining condition. CRITICAL: Cooling must be complete before demolition starts - minimum 48 hours cooling time required.
+
+Concurrent with demolition: Electrical team led by Mr. Anil Patel will disconnect all power systems, inspect switchgear and motors (2-3 days). Mechanical team to remove and inspect tuyeres, blow pipe assemblies (3 days, can start Day 2 after initial cooling).
+
+Days 5-16: New refractory installation by M/s Vesuvius India Limited. Contract team of 25-30 workers. Estimated 10-12 days including curing time. Quality inspection at 50% completion (Day 10) and final inspection (Day 16) by Mr. Deshmukh's quality team (half day each inspection).
+
+Days 14-17: Whilst refractory is curing, mechanical team must complete tuyere replacement and blow pipe refurbishment (5-6 days total, started earlier). Instrumentation team led by Ms. Reddy to recalibrate all sensors and control systems (3 days, starting Day 15).
+
+Day 17-18: Pre-commissioning checks. Electrical reconnection and testing by Mr. A. Patel's team (1.5 days). Safety systems verification by Ms. Patel (1 day, parallel to electrical). Final walkdown inspection by all department heads and plant manager (half day).
+
+Day 19-21: Hot commissioning sequence. Gradual heat-up under supervision of Chief Operations Officer Mr. Venkatesh. First charging of burden and initial hot blast trial (2-3 days depending on heating curve). Production team takes over post successful commissioning trial.
+
+---
+WBS DOCUMENT 2: Continuous Casting Machine #3 Tundish Replacement
+---
+
+RE: CCM-3 Emergency Tundish Change - Activity Schedule
+Prepared by: Maintenance Planning Team
+Date: 28 January 2026
+
+Emergency tundish replacement required due to excessive refractory wear identified during yesterday's inspection. Replacement to be executed during planned weekend shutdown (Saturday 1st Feb 0800hrs to Sunday 2nd Feb 2000hrs).
+
+Saturday 0800-1000hrs: Production team to complete final heat and safely drain CCM-3. Mr. Ravi's operations team responsible. Parallel activity: Stores team (Mr. Ibrahim) to stage replacement tundish and refractory materials at CCM platform (can start Friday evening, 2 hours preparation).
+
+Saturday 1000-1400hrs: Crane operations to remove old tundish. Requires 150T overhead crane - Mr. Prasad's team. SAFETY CRITICAL: Permit to work must be in place, all personnel clear from crane path. Estimated 4 hours including rigging and safe placement in designated scrap area.
+
+Saturday 1400-1800hrs: Platform cleaning and inspection by civil team. Any platform repairs to be completed during this window - Mr. Sharma's team (4 hours allocated, may finish sooner if no major repairs needed).
+
+Saturday 1800hrs-Sunday 0600hrs: New tundish installation. Refractory contractor M/s Orient Refractories will install tundish and complete refractory lining (12 hours including drying time). Quality inspection by Mr. Deshmukh at 2300hrs and again at 0500hrs to verify refractory integrity.
+
+Sunday 0600-1200hrs: Preheating sequence. Electrical team to connect preheating burners and monitor temperature curve (6 hours minimum for proper dry-out). Mr. A. Patel responsible for electrical connections and instrumentation checks (2 hours, starting 0600hrs).
+
+Sunday 1200-1600hrs: Final commissioning checks. Mechanical team to verify all alignments, launder connections, stopper rod mechanisms (3 hours). Safety team final walkdown and clearance certificate (1 hour). Operations team to conduct water trials before production restart.
+
+Sunday 1600-2000hrs: Buffer time for any issues. Production restart planned for 2000hrs if all checks satisfactory.
+
+---
+WBS DOCUMENT 3: Rolling Mill Modernisation - Phase 1
+---
+
+Project: Hot Strip Mill - Automation Upgrade Phase 1
+Duration: 8 weeks (April-May 2026)
+Project Lead: Mr. Sanjay Mehta, Engineering Manager
+
+Week 1-2 (1st-12th April): Engineering and detailed design. Controls engineering team under Ms. Kavitha to finalise PLC logic, HMI screens, network architecture (10 working days). Parallel activity: Procurement team (Mr. Gupta) to finalise supplier contracts and initiate long-lead item orders - specifically Allen Bradley ControlLogix PLCs and Siemens drives (2 weeks for PO processing).
+
+Week 2-3 (8th-19th April): Civil works for new control room and cable trenching. Mr. Sharma's civil team (8 days estimated). Must be complete before electrical installation begins. Electrical team can start conduit installation in existing areas during this period (5 days work by Mr. Patel's team).
+
+Week 3-5 (15th April-3rd May): Equipment delivery and staging. Logistics team coordinating deliveries - allow 2 weeks for customs clearance and inland transport. Stores team (Mr. Ibrahim) responsible for receiving inspection and staging in mill area (ongoing activity, 3 weeks).
+
+Week 4-6 (22nd April-10th May): Main shutdown window for installation. Mill operations suspended during this period:
+  - Days 1-5: Old panel decommissioning and removal by vendor team (M/s Schneider Electric India, 15 technicians)
+  - Days 6-12: New PLC panel installation, wiring, and termination (Vendor team plus 10 in-house electricians from Mr. Patel's group)
+  - Days 8-15: Instrument calibration concurrent with panel work (Ms. Reddy's instrumentation team, 5 technicians)
+
+Week 6-7 (6th-17th May): Testing and commissioning:
+  - Week 6: Factory Acceptance Testing simulation in control room (Vendor team with Mr. Mehta and Ms. Kavitha)
+  - Week 7: Site Acceptance Testing with actual mill equipment, no load trials (Combined vendor and plant team, 20-25 people)
+  
+Week 7-8 (13th-24th May): Production trials and optimisation. Operations team (Mr. Venkatesh) to run controlled production with new system. Engineering team on standby for adjustments. Gradual ramp-up from 50% capacity to full production (10 days estimated, may extend if issues found).
+
+---
+WBS DOCUMENT 4: SMS Ladle Refractory Maintenance Programme
+---
+
+Monthly Ladle Maintenance - March 2026 Schedule
+Refractory Superintendent: Mr. Dinesh Rao
+
+We have 12 ladles in SMS ladle fleet. Maintenance cycle requires 3-4 ladles under maintenance at any time to maintain production continuity.
+
+Batch 1 Ladles (Ladle #3, #7, #11): Schedule for 1st-5th March
+Day 1 (1st March): Ladle preparation and demolition. After final heat is poured, ladle to be transported to maintenance bay (1 hour). Cooling period 4 hours minimum before demolition. Demolition of worn refractory lining by civil gang (6-8 hours depending on lining condition). Mr. Sharma's team of 8 workers per ladle.
+
+Day 2-3 (2nd-3rd March): Refractory contractor M/s Indian Refractories to install new lining. Base course installation Day 2 (6 hours work), working lining installation Day 3 (8 hours work). Each ladle requires 2 skilled masons plus 2 helpers. Quality inspection by Mr. Deshmukh at completion of base course and working lining (1 hour each inspection).
+
+Day 4 (4th March): Drying sequence. Gas-fired drying following contractor's recommended curve. Heating and drying managed by refractory contractor's specialist (12 hours minimum). Temperature monitoring by instrumentation team.
+
+Day 5 (5th March): Final inspection and commissioning. Visual inspection, refractory thickness verification, launder alignment check by quality team (2 hours). Safety clearance by Ms. Patel (1 hour). Ladle returned to service post approvals.
+
+Batch 2 Ladles (Ladle #1, #5, #9): Schedule for 8th-12th March - same activity sequence as Batch 1.
+
+Batch 3 Ladles (Ladle #2, #6, #10): Schedule for 15th-19th March - same activity sequence.
+
+Batch 4 Ladles (Ladle #4, #8, #12): Schedule for 22nd-26th March - same activity sequence.
+
+Emergency spare capacity: One additional ladle kept in hot standby at all times in case of unplanned ladle damage during production.
+
+
+================================================================================
+STANDARD OPERATING PROCEDURES (SOPs)
+================================================================================
+
+---
+SOP DOCUMENT 1: Hot Metal Sampling and Temperature Measurement
+---
+
+SOP Number: BF-QC-003
+Title: Blast Furnace Hot Metal Sampling Procedure
+Revision: 4.2
+Effective Date: January 2026
+
+SAFETY REQUIREMENTS:
+All personnel involved in hot metal sampling must wear complete PPE including aluminised suit, face shield, safety helmet, safety shoes, and heat-resistant gloves at all times. This is safety critical and non-negotiable.
+
+PROCEDURE STEPS:
+
+Step 1: Pre-sampling preparation by Sample Operator
+Sample operator to verify that sampling equipment is ready - sample spoon, sample moulds, temperature probe, and PPE are in good condition. Equipment check must be completed before furnace tap begins.
+
+Step 2: Communication and coordination by Shift Supervisor
+Shift supervisor to coordinate with furnace tapper and confirm sampling point and timing. Notify quality laboratory that sample will be ready for collection in approximately 15 minutes.
+
+Step 3: First sample collection at 5-minute mark by Sample Operator
+Wait until hot metal flow is steady (approximately 5 minutes after tap starts). Using long-handled sampling spoon, collect hot metal sample from runner stream. Pour immediately into prepared cast iron sample moulds (3 samples minimum). SAFETY CRITICAL: Maintain safe distance, avoid any water contact with hot metal.
+
+Step 4: Temperature measurement by Sample Operator
+Immediately after taking sample, immerse calibrated immersion-type temperature probe into hot metal stream. Hold probe in stream for 10 seconds minimum for accurate reading. Record temperature on sampling log sheet.
+
+Step 5: Sample identification and logging by Sample Operator
+Mark each sample mould with furnace number, tap number, date, time, and temperature whilst metal is still molten (markings will be permanent). Complete sampling log with all required information including operator name and supervisor signature.
+
+Step 6: Second sample collection at 20-minute mark by Sample Operator
+Repeat Steps 3-5 to collect mid-tap sample. This provides check for consistency across the tap.
+
+Step 7: Sample cooling and transfer by Sample Operator
+Allow samples to cool in moulds for minimum 30 minutes. Once cooled and safe to handle, transfer samples to laboratory sample trolley. Notify laboratory that samples are ready for analysis.
+
+Step 8: Laboratory notification and documentation by Shift Supervisor
+Shift supervisor to inform quality laboratory supervisor of sample availability. Ensure all documentation is complete and accompanies samples.
+
+---
+SOP DOCUMENT 2: Continuous Casting Machine Startup Sequence
+---
+
+SOP Number: CCM-OP-011
+Title: CCM Cold Startup After Shutdown
+Department: Steel Making Shop - Continuous Casting
+Approved by: Chief Operations Officer
+
+PREREQUISITES:
+This procedure applies only after planned shutdown of 8 hours or more when CCM has cooled down. For normal operation and sequence changes, refer to SOP-CCM-OP-012.
+
+Step 1: Pre-startup inspection by Mechanical Fitter
+Mechanical fitter to inspect all mechanical components - mould oscillation system, segment alignment, spray cooling nozzles, and withdrawal rolls. Any defects must be reported to shift in-charge before proceeding. Safety guards must be in position and secured.
+
+Step 2: Tundish preheating initiation by Tundish Operator
+Tundish operator to start preheating sequence using gas burners. Target temperature 1100-1200°C measured at tundish bottom. Minimum preheating time 4 hours - do not rush this step as inadequate preheating causes refractory thermal shock and failure. SAFETY CRITICAL: Verify all gas connections are tight and burner flames are stable before leaving unattended.
+
+Step 3: Water system startup by Utilities Operator
+Utilities operator to start secondary cooling water pumps and verify flow to all zones. Check pressure gauges read normal range (4.5-5.5 bar). Inspect all spray nozzles for blockages. Water quality must meet specifications (conductivity <10 μS/cm).
+
+Step 4: Mould cooling water activation by CCM Operator
+CCM operator to start primary mould cooling water circulation. Flow rate must achieve 800-1000 litres per minute. Verify inlet and outlet temperatures are within 5°C difference (indicating good flow distribution). Check for any leaks in mould cooling circuits.
+
+Step 5: Hydraulic system check by CCM Operator
+Verify hydraulic oil pressure for mould oscillation system (150-170 bar normal). Start oscillation mechanism and check stroke length and frequency match setpoints. Any abnormal noise or vibration must be investigated before proceeding.
+
+Step 6: Dummy bar insertion by Maintenance Crew
+Maintenance crew (minimum 2 persons) to manually insert dummy bar through entire casting length. Verify dummy bar head is properly positioned in mould and secured. Withdrawal pinch rolls to be engaged gently on dummy bar.
+
+Step 7: Control system initialisation by Panel Operator
+Panel operator to initialise CCM automation system, verify all interlocks are healthy, and no alarm conditions exist. Set casting speed to minimum (0.8 metres/min) for initial startup. Confirm communication with ladle tracking system and SMS control room.
+
+Step 8: Final safety walkdown by Shift In-charge
+Shift in-charge to conduct final walkdown of entire CCM area. Verify all personnel are clear of moving equipment zones, emergency stops are functional, and safety barriers are in place. Issue clearance for casting to commence.
+
+Step 9: First ladle positioning and casting start by Ladle Crane Operator
+Ladle crane operator to position first ladle over tundish. Tundish temperature must be above 1100°C before ladle opening. SMS coordinator to confirm ladle temperature is 1580-1620°C. Open ladle slowly and monitor initial metal flow into tundish.
+
+---
+SOP DOCUMENT 3: Slab Dimensional Inspection
+---
+
+SOP Number: QC-INSP-025
+Title: Finished Slab Dimensional and Surface Quality Inspection
+Issued by: Quality Assurance Department
+
+Step 1: Slab identification and documentation by Quality Inspector
+Inspector to verify slab identification number matches production records. Check heat number, grade, and customer order details on inspection sheet. SAFETY: Wear safety helmet, safety shoes, and hand gloves during inspection.
+
+Step 2: Visual surface inspection by Quality Inspector  
+Visually inspect all four surfaces (top, bottom, two edges) for surface defects including cracks, seams, slivers, scale formation, or depressions. Use inspection hammer to tap suspect areas and check for laminations. Mark any defect locations with yellow marking chalk.
+
+Step 3: Dimensional measurements by Quality Inspector
+Using calibrated steel tape measure, verify slab dimensions:
+- Length: Measure at three points (both ends and centre), record all three readings
+- Width: Measure at both ends and centre, record readings  
+- Thickness: Measure at all four corners and centre (5 points total), record all readings
+All measurements must be within tolerance specified on inspection sheet (typically ±3mm for length/width, ±1mm for thickness).
+
+Step 4: Defect depth measurement by Quality Inspector
+For any surface defects identified in Step 2, use depth gauge to measure defect depth. REJECTION CRITERIA: Defects deeper than 2mm on top/bottom surface or 3mm on edge surface require slab to be rejected or downgraded. Record defect type, location, and depth on inspection sheet.
+
+Step 5: Surface temperature check by Quality Inspector
+Use infrared thermometer to verify slab surface temperature is below 100°C before further handling. Hot slabs cannot be accurately measured and pose safety risk.
+
+Step 6: Squareness and straightness check by Quality Inspector
+Using straight edge and square, verify slab corners are square (90°±0.5°) and edges are straight (deviation <2mm per metre). Non-conforming slabs to be marked for cutting or conditioning.
+
+Step 7: Documentation and disposition by Quality Inspector
+Complete inspection report with all measurements and observations. Assign disposition:
+- ACCEPT: Stamp slab with green paint, release for dispatch
+- REWORK: Stamp with yellow paint, send to conditioning bay for grinding/scarfing
+- REJECT: Stamp with red paint, quarantine for scrap or downgrade
+Inspector to sign and date inspection sheet.
+
+Step 8: Laboratory sample coordination by Quality Inspector
+For slabs requiring chemical or mechanical property verification (as per sampling plan), mark slab for laboratory sampling and notify laboratory supervisor. Laboratory sample to be taken from designated location (typically slab end).
+
+Step 9: Inspection record filing by Quality Inspector
+Submit completed inspection sheet to quality control office within 2 hours. File inspection records by date and heat number. Update daily inspection summary in quality register.
+
+---
+SOP DOCUMENT 4: Confined Space Entry - Blast Furnace Bustle Main Inspection
+---
+
+SOP Number: SAFETY-CSE-008
+Title: Confined Space Entry Procedure for BF Bustle Main and Hot Blast Stove Inspection
+Category: SAFETY CRITICAL PROCEDURE
+Authority: Plant Safety Officer
+
+All confined space entry activities are high-risk and require strict compliance with this procedure. Violations may result in disciplinary action.
+
+Step 1: Work permit application by Maintenance Supervisor
+Maintenance supervisor to apply for Confined Space Entry Permit minimum 24 hours before planned entry. Permit application must specify location, nature of work, estimated duration, and number of personnel entering.
+
+Step 2: Atmospheric testing by Safety Officer
+SAFETY CRITICAL: Safety officer to conduct atmospheric testing using calibrated 4-gas monitor before entry permit is issued. Test for oxygen level (must be 19.5-23.5%), flammable gases (must be <10% LEL), carbon monoxide (<35 ppm), and hydrogen sulphide (<10 ppm). Testing must be done at multiple levels (top, middle, bottom) as gases stratify.
+
+Step 3: Ventilation setup by Safety Team
+If atmospheric testing shows deficiency, safety team to arrange forced ventilation using blowers. Minimum 30 minutes continuous ventilation required before re-testing. Ventilation to be maintained throughout entry period.
+
+Step 4: Isolation and lockout by Electrical Team
+SAFETY CRITICAL: Electrical team under Mr. Patel to isolate and lockout all energy sources (electrical, pneumatic, hydraulic) that could affect the confined space. Physical disconnection of hot blast valve is mandatory. Lockout tags to be applied by authorised personnel only.
+
+Step 5: Communication system setup by Maintenance Crew
+Establish communication system between personnel inside confined space and standby person outside. Two-way radio or sound-powered telephone required. Mobile phones are not acceptable as sole communication method.
+
+Step 6: Rescue equipment staging by Safety Team
+Safety team to stage rescue equipment at entry point including:
+- Full body harness and retrieval line for each entrant
+- Rescue tripod with winch (if vertical entry)
+- Self-contained breathing apparatus (SCBA) - minimum 2 sets
+- First aid kit and stretcher
+SAFETY CRITICAL: Rescue equipment must be inspected and certified current before use.
+
+Step 7: Permit issuance and briefing by Safety Officer
+Safety officer to conduct toolbox talk with all personnel involved, explaining hazards, emergency procedures, and communication protocols. Issue Confined Space Entry Permit only after all preconditions met. Permit valid for single shift only - must be renewed for extended work.
+
+Step 8: Entry and continuous monitoring by Entrant and Safety Watchman
+Designated entrant wearing full body harness and connected to retrieval line to enter space. SAFETY CRITICAL: Safety watchman (trained in rescue) to maintain continuous visual or voice contact with entrant. Safety watchman must never enter space to attempt rescue - raise alarm and wait for rescue team.
+
+Step 9: Periodic atmospheric re-testing by Safety Officer
+Safety officer to re-test atmosphere every 2 hours during occupancy. Any adverse reading requires immediate evacuation and investigation before re-entry.
+
+Step 10: Emergency evacuation procedure by All Personnel
+On emergency alarm or communication loss, entrant to evacuate immediately using retrieval line. Safety watchman to raise alarm and not attempt entry. Emergency response team to don SCBA before any rescue attempt.
+
+Step 11: Work completion and permit closure by Maintenance Supervisor
+Upon work completion, maintenance supervisor to verify all personnel and tools have exited confined space. Remove all temporary equipment, restore isolation points, and return permit to safety office with completion sign-off.
+
+---
+SOP DOCUMENT 5: Quality Hold and Rejection Process
+---
+
+SOP Number: QC-PROC-015
+Title: Non-Conforming Product Quality Hold and Disposition
+Effective: January 2026
+
+Step 1: Non-conformance identification by Any Personnel
+Any personnel (operator, inspector, supervisor) identifying non-conforming product (outside specification limits) must immediately mark the material with RED FLAG tape and notify shift in-charge. Do not allow material to proceed to next operation.
+
+Step 2: Immediate containment by Shift In-charge
+Shift in-charge to physically segregate non-conforming material to quarantine area. Update production tracking system to reflect quality hold status. Notify quality control supervisor within 30 minutes of identification.
+
+Step 3: Non-conformance documentation by Quality Inspector
+Quality inspector to create Non-Conformance Report (NCR) documenting:
+- Material identification (heat number, product code)
+- Nature of non-conformance with measurements
+- Quantity affected
+- Suspected root cause
+NCR to be raised in quality management system within 2 hours of identification.
+
+Step 4: Material review board convening by Quality Control Manager
+For significant non-conformances (>10 tonnes or customer-specific material), quality control manager to convene Material Review Board (MRB) comprising quality manager, production manager, and technical services manager. MRB to meet within 24 hours of NCR.
+
+Step 5: Root cause investigation by Production Supervisor
+Production supervisor to investigate root cause using process data, operator inputs, and equipment status. Document findings in NCR. Identify immediate corrective actions to prevent recurrence.
+
+Step 6: Disposition decision by MRB or Quality Manager
+Material Review Board or quality manager (for minor non-conformances) to assign disposition:
+- REWORK: Material can be reprocessed to meet specifications
+- USE AS IS: Minor deviation, customer concession obtained, material acceptable  
+- SCRAP: Material cannot meet specifications, to be scrapped
+- RETURN TO SUPPLIER: If raw material issue, coordinate with procurement
+
+Step 7: Customer notification by Sales Coordinator
+CRITICAL: If non-conformance affects customer order or delivery, sales coordinator must notify customer within 4 hours of disposition decision. Document customer response and any agreed actions.
+
+Step 8: Corrective action implementation by Production Manager
+Production manager to implement corrective actions identified in Step 5. Actions may include process parameter changes, equipment maintenance, operator retraining, or raw material specification changes. Target completion within 7 days of NCR.
+
+Step 9: Material disposition execution by Relevant Department
+Based on MRB decision:
+- REWORK: Production planning to schedule reprocessing
+- SCRAP: Dispatch to scrap yard with proper documentation  
+- RETURN: Procurement to coordinate with supplier
+Quality inspector to verify disposition is executed correctly and update NCR status.
+
+Step 10: Effectiveness verification by Quality Manager
+Quality manager to review NCR closure and verify corrective actions have been effective (no repeat non-conformances for 30 days). Close NCR in system and file for future reference and trend analysis.
+
+---
+SOP DOCUMENT 6: Overhead Crane Safety Checklist
+---
+
+SOP Number: SAFETY-CRANE-002
+Title: Overhead Crane Pre-operation Safety Inspection
+Applies to: All overhead cranes >10 tonne capacity
+
+SAFETY CRITICAL PROCEDURE - Must be completed before every shift
+
+Step 1: Visual inspection by Crane Operator
+SAFETY CRITICAL: Crane operator to conduct visual walkround inspection before taking control. Check for:
+- Wire rope condition (no broken wires, kinks, or excessive wear)
+- Hook condition (no cracks, deformation, or missing safety latch)
+- Load chain condition (if chain hoist type)
+- Any oil leaks from gearbox or hydraulic system
+- Condition of runway rails and end stops
+Any defect identified must be reported immediately to maintenance supervisor. Do not operate crane if defects found.
+
+Step 2: Control system check by Crane Operator
+Test all controls before commencing operations:
+- Emergency stop buttons (test both pendant and cabin e-stop)
+- Hoist up/down controls with no load
+- Bridge travel controls (forward/reverse)
+- Trolley travel controls (left/right)
+- Limit switches (upper/lower hoist limits must function correctly)
+All controls must respond smoothly without sticking or delays.
+
+Step 3: Warning systems test by Crane Operator
+Activate crane warning bell/siren and verify audible throughout crane operational area. Warning must be given before any crane movement when personnel are in area.
+
+Step 4: Load test with light load by Crane Operator
+Perform test lift with light load (approximately 1-2 tonnes) before handling production loads. Observe for unusual noises, vibrations, or jerky movements. Test all directions of travel with light load.
+
+Step 5: Documentation completion by Crane Operator
+Complete Pre-operation Checklist form with date, time, crane number, and operator signature. Note any defects or observations. Submit checklist to shift supervisor.
+
+Step 6: Defect reporting and tagging by Maintenance Supervisor
+If any defects identified that prevent crane operation, maintenance supervisor to attach RED DANGER TAG to crane controls stating "CRANE OUT OF SERVICE - DO NOT OPERATE" with details of defect and supervisor signature.
+
+Step 7: Safe working load verification by Crane Operator
+Before lifting any load, operator to verify load weight is within crane Safe Working Load (SWL) rating. When in doubt, consult load charts posted in crane cabin. NEVER exceed SWL - this is safety critical.
+
+Step 8: Rigging inspection by Rigger/Slinger
+SAFETY CRITICAL: Designated rigger to inspect all rigging equipment (slings, shackles, hooks) before use. Check for:
+- Sling identification tags are legible and current (colour code system)
+- No cuts, abrasions, or burns on synthetic slings
+- No kinks, bird caging, or broken wires on wire rope slings
+- Shackles and hooks have no deformation or cracks
+- Load capacity markings are clearly visible
+Defective rigging to be removed from service immediately and tagged for disposal.
+
+
+================================================================================
+END OF SAMPLE DOCUMENTS
+================================================================================
+
+NOTES FOR CANDIDATES:
+- These samples represent typical documentation found in steel manufacturing plants
+- Language and format variations are intentional and reflect real-world documentation
+- Your AI agent should handle these variations and extract consistent structured output
+- Focus on extracting the key information specified in the assessment requirements
+- You are not expected to understand steel manufacturing terminology in depth

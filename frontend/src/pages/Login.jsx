@@ -75,7 +75,7 @@ export default function Login({ onLogin, theme }) {
             fontFamily: 'Outfit', fontSize: '2rem', fontWeight: 800, color: 'var(--text-primary)',
             marginBottom: '8px',
           }}>
-            ForgeAI <span style={{ background: 'var(--grad-primary)', WebkitBackgroundClip: 'text', color: 'transparent' }}>AI</span>
+            Forge <span style={{ background: 'var(--grad-primary)', WebkitBackgroundClip: 'text', color: 'transparent' }}>AI</span>
           </h1>
           <p style={{ color: 'var(--text-secondary)', fontSize: '0.95rem' }}>
             Manufacturing Intelligence Platform
